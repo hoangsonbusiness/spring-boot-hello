@@ -7,6 +7,6 @@
 <title>Hello page</title>
 </head>
 <body>
-<h1>Hello world NEW NEW!!!</h1>
+<h1>Hello world NEW !!!</h1>
 </body>
 </html>
